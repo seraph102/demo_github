@@ -26,6 +26,15 @@ clone this repo to the computer:
     now u can push all the file in github cloud 
     by using ` git push`
 
+# IMPORTANT:
+Incase we did a mistake in commit a file or something in our repo. there are 2 method to revert it as the point u want to keep the commit
+
+### step 1:
+ get back to the point u want to keep the commit version.
+ using ` git commit <commit id>`
+### step 2:
+now using ` get push --force`
+
 
 
     
